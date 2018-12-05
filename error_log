@@ -1,0 +1,105 @@
+[01-Apr-2018 05:52:29 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/demo/action.php on line 101
+[01-Apr-2018 10:32:46 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 10:55:33 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:17:26 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:17:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:18:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:21:55 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:25:10 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:38:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:39:11 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:39:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 11:42:23 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 610
+[01-Apr-2018 11:42:23 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 11:42:23 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 11:42:23 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 635
+[01-Apr-2018 11:42:45 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 610
+[01-Apr-2018 11:42:45 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 11:42:45 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 11:42:45 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 635
+[01-Apr-2018 11:42:59 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 610
+[01-Apr-2018 11:42:59 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 11:42:59 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 11:42:59 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 635
+[01-Apr-2018 11:46:42 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 11:46:42 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 11:46:42 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 11:46:42 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 11:47:36 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 11:47:36 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 11:47:36 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 11:47:36 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 11:50:11 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:33:49 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:34:22 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:34:40 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:36:28 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:37:01 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:37:41 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:40:06 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 12:40:06 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 12:40:06 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 12:40:06 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 12:40:30 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 12:40:30 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 12:40:30 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 12:40:30 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 12:41:03 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 12:41:03 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 12:41:03 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 12:41:03 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 12:53:23 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:53:57 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:54:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 12:57:07 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 12:57:07 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 12:57:07 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 12:57:07 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 12:57:29 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 12:57:29 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 12:57:29 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 12:57:29 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 12:58:00 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 12:58:00 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 12:58:00 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 12:58:00 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 13:00:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:00:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:34:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:34:48 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:35:17 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:38:15 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 13:38:15 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 13:38:15 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 13:38:15 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 13:38:29 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 13:38:29 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 13:38:29 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 13:38:29 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 13:39:08 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 13:39:08 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 13:39:08 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 13:39:08 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 13:42:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:43:11 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:45:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 13:59:51 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:00:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:00:54 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:05:04 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:05:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:06:24 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:09:40 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 14:09:40 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 14:09:40 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 14:09:40 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 14:09:57 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 14:09:57 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 14:09:57 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 14:09:57 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 14:10:49 America/New_York] PHP Notice:  Undefined index: postId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 612
+[01-Apr-2018 14:10:49 America/New_York] PHP Notice:  Undefined index: userId in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 614
+[01-Apr-2018 14:10:49 America/New_York] PHP Notice:  Undefined index: email in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 616
+[01-Apr-2018 14:10:49 America/New_York] PHP Notice:  Undefined index: commentText in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 637
+[01-Apr-2018 14:14:16 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
+[01-Apr-2018 14:14:45 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/itrslwdz/albos-express.com/teamkappa/action.php on line 101
